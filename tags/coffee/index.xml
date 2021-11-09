@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coffee on 咖啡的家</title>
+    <link>https://Billychuan.github.io/tags/coffee/</link>
+    <description>Recent content in coffee on 咖啡的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 08 Nov 2021 00:23:23 +0800</lastBuildDate><atom:link href="https://Billychuan.github.io/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第二篇文章</title>
+      <link>https://Billychuan.github.io/blog/second-post/</link>
+      <pubDate>Mon, 08 Nov 2021 00:23:23 +0800</pubDate>
+      
+      <guid>https://Billychuan.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
+    <item>
+      <title>抒發心情</title>
+      <link>https://Billychuan.github.io/blog/test/</link>
+      <pubDate>Sun, 07 Nov 2021 15:42:47 +0800</pubDate>
+      
+      <guid>https://Billychuan.github.io/blog/test/</guid>
+      <description>Hello World!
+我是柏權
+一級標題 內容是這樣
+三級標題 簡單啦
+六級標題 真的很小嗎
+我是阿柴，我喜歡學習</description>
+    </item>
+    
+  </channel>
+</rss>
